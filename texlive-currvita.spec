@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-currvita
 Version:	20061209
-Release:	7
+Release:	8
 Summary:	Typeset a curriculum vitae
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/currvita
