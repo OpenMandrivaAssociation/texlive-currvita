@@ -5,7 +5,7 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-currvita
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Typeset a curriculum vitae
 Group:		Publishing
