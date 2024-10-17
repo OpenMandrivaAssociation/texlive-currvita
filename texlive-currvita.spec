@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset a curriculum vitae
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/currvita
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/currvita
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/currvita.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/currvita.doc.r%{version}.tar.xz
